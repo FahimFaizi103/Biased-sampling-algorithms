@@ -2,7 +2,7 @@
 % This is Weighted Histogram analysis method.
 %% Load the data
 
-load('Ising_12by12.mat')
+% load('Ising_12by12.mat')
 
 %% Compute Biased Probability density
 
